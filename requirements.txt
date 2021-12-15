@@ -1,5 +1,5 @@
 asn1crypto=1.4.0
 cryptography=3.4.8
-oscrypt=1.2.1
+oscrypto=1.2.1
 pyasn1=0.4.8
 rsa=4.7.2
